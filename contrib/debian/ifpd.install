@@ -1,0 +1,2 @@
+usr/local/bin/ifpd usr/bin
+usr/local/bin/ifp-cli usr/bin

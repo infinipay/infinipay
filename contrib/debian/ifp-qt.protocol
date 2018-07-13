@@ -1,0 +1,11 @@
+[Protocol]
+exec=ifp-qt '%u'
+protocol=ifp
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

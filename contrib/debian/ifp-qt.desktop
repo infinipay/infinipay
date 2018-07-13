@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=IFP
+Comment=IFP P2P Cryptocurrency
+Comment[fr]=IFP, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=IFP, eşten eşe kriptografik sanal para birimi
+Exec=ifp-qt %u
+Terminal=false
+Type=Application
+Icon=ifp128
+MimeType=x-scheme-handler/ifp;
+Categories=Office;Finance;
